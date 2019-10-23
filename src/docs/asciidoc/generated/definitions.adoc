@@ -1,0 +1,25 @@
+
+[[_definitions]]
+== Definitions
+
+[[_user]]
+=== User
+用户对象
+
+
+[options="header", cols=".^3,.^11,.^4"]
+|===
+|Name|Description|Schema
+|**age** +
+__optional__|年龄 +
+**Example** : `10`|integer (int32)
+|**id** +
+__optional__|ID +
+**Example** : `1`|integer (int64)
+|**name** +
+__optional__|姓名 +
+**Example** : `"user1"`|string
+|===
+
+
+

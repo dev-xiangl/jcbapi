@@ -1,0 +1,20 @@
+= Spring Boot中使用Swagger2构建RESTful APIs
+
+
+[[_overview]]
+== Overview
+Spring Boot中使用Swagger2构建RESTful APIs
+
+
+=== URI scheme
+[%hardbreaks]
+__Host__ : 192.168.3.210:18080
+__BasePath__ : /
+
+
+=== Tags
+
+* user-controller : User Controller
+
+
+
